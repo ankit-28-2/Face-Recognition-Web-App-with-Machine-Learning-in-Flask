@@ -29,6 +29,10 @@ d) For the preprocess images, we will extract features from the images, ie. comp
 
 Once our machine learning model is ready, will we learn and develop a web server gateway interphase in flask by rendering HTML CSS and bootstrap in the frontend and in the backend written in Python.  Finally, we will create the project on the Face Recognition project by integrating the machine learning model to Flask App.
 
+Output:
+![WhatsApp Image 2022-06-02 at 2 11 09 PM](https://user-images.githubusercontent.com/87833566/171591498-7450b22d-25d7-437d-9638-80328fed2311.jpeg)
+
+
 Summary:
 Following things have been used in this project:
 -Python
@@ -43,7 +47,8 @@ Following things have been used in this project:
 
 -Face Recognition Classification Model with Support Vector Machines
 
--Pipeline Model
+-Pipeline Model![WhatsApp Image 2022-06-02 at 2 11 09 PM](https://user-images.githubusercontent.com/87833566/171591309-992d2747-f1e4-4a30-bd1f-d89612c1cd58.jpeg)
+
 
 -Flask (Jinja Template, HTML, CSS, HTTP Methods)
 
